@@ -1,0 +1,1 @@
+"Hello".foldLeft(1:Long){(z,a)=>z*a}
