@@ -1,0 +1,1 @@
+def product(s:String)={ var j:Long = 1;for (i<-s) j=j*i;j}
